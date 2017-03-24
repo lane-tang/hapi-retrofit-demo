@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/behindtheshadow/a-server-side-code-for-retrofit-push-demo/issues"
   },
-  "homepage": "https://github.com/behindtheshadow/a-server-side-code-for-retrofit-push-demo#readme"
+  "homepage": "https://github.com/behindtheshadow/a-server-side-code-for-retrofit-push-demo#readme",
+  "dependencies": {
+    "boom": "^4.3.0",
+    "hapi": "^16.1.0",
+    "joi": "^10.3.0",
+    "mongojs": "^2.4.0"
+  }
 }
