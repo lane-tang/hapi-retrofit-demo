@@ -1,0 +1,22 @@
+{
+  "name": "a-server-side-code-for-retrofit-push-demo",
+  "version": "1.0.0",
+  "description": "This is a simple server side Code for [Send Objects In Request Body](https://www.youtube.com/watch?v=j7lRiTJ_-cI) Video.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behindtheshadow/a-server-side-code-for-retrofit-push-demo.git"
+  },
+  "keywords": [
+    "RESTful"
+  ],
+  "author": "lane tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behindtheshadow/a-server-side-code-for-retrofit-push-demo/issues"
+  },
+  "homepage": "https://github.com/behindtheshadow/a-server-side-code-for-retrofit-push-demo#readme"
+}
